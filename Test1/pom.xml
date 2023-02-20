@@ -59,6 +59,20 @@
 			<artifactId>mybatis-spring</artifactId>	
 			<version>3.0.1</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>test</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <scope>provided</scope>
+</dependency>
+
 		
 	</dependencies>
 
